@@ -1,0 +1,20 @@
+{
+  "name": "aws-node-getting-started",
+  "version": "1.0.0",
+  "description": "Practice AWS and Node.JS API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/desmarais-patrick/aws-node-getting-started.git"
+  },
+  "keywords": ["aws", "node", "practice", "api"],
+  "author": "desmarais-patrick",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/desmarais-patrick/aws-node-getting-started/issues"
+  },
+  "homepage": "https://github.com/desmarais-patrick/aws-node-getting-started#readme"
+}
