@@ -1,3 +1,4 @@
+// Adds object, but maybe different from upload...not managed?!
 var config = require('./config.json');
 
 var AWS = require('aws-sdk');
